@@ -36,3 +36,6 @@ Pastikan perangkat terdeteksi di lingkungan Linux Anda. Buka terminal (CLI) dan 
 
 ```bash
 ls /dev/ttyUSB*
+
+
+perlu diperhatikan juga ini pengguaan menggunakan brige ROS 2 HUMBEL DIDASARI OLEH MICRO-ROS.KAMU JUGA BISA MENGGUNAKAN LAPTOP/KOMPUTER SEBAGAI BRIGE UNTUK INI.
